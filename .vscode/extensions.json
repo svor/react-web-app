@@ -3,6 +3,6 @@
     // for the documentation about the extensions.json format
     "recommendations": [
       "redhat.dependency-analytics",
-      "redhat.dependency-analytics"
+      "redhat.vscode-openshift-connector"
     ]
 }
